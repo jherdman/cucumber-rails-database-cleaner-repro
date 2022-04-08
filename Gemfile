@@ -76,3 +76,5 @@ gem "cucumber-rails", "~> 2.5", :group => :test
 gem "database_cleaner", "~> 2.0", :group => :test
 gem "database_cleaner-active_record", "~> 2.0", :group => :test
 gem "database_cleaner-redis", "~> 2.0", :group => :test
+
+gem "redis", "~> 4.6"
